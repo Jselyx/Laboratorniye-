@@ -2,7 +2,8 @@
 #include <stdint.h>
 
 int main(void) {
-    puts("Hello C\n");
+    puts("Hello C");
+    puts("Hello World");
 
     const char letter = 'F';
     const int number = 10;
